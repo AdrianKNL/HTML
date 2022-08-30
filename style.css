@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h2{
+  margin-left: 20px;
+  line-height: 10px;
+}
+
+h5{
+  margin-left: 10px;
+  line-height: 0px;
+}
+
+p{
+  margin-left: 30px;
+  line-height: 10px;
+  ;
+}
+
+   em {
+      color: blueviolet;
+    }
+
+.p1{
+  width:30%;
+  border-right:1px solid;
+  border-color: violet;
+}
+.p2{
+  width:70%;
+}
